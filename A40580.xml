@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true narrative of one Elizabeth Middleton, a Roman-Catholick living in Gardners-Lane, Westminster who endeavouring to turn the late hellish-plot on the non-conformists, thereby to vindicate her own sect, the papists, was before several witnesses heard to wish that she might never see the light ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40580</idno>
+            <idno type="STC">Wing F2312A</idno>
+            <idno type="STC">ESTC R36444</idno>
+            <idno type="EEBO-CITATION">15691348</idno>
+            <idno type="OCLC">ocm 15691348</idno>
+            <idno type="VID">104418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104418)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true narrative of one Elizabeth Middleton, a Roman-Catholick living in Gardners-Lane, Westminster who endeavouring to turn the late hellish-plot on the non-conformists, thereby to vindicate her own sect, the papists, was before several witnesses heard to wish that she might never see the light ...</title>
+               </titleStmt>
+               <extent>[1], 6, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.T. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104418:1" rendition="simple:additions"/>
+            <pb facs="tcp:104418:1"/>
+            <p>A Full and True NARRATIVE OF ONE <hi>Elizabeth Middleton.</hi> A Roman-Catholick, Living in <hi>Gardeners-Lane, Weſtminſter.</hi>
+            </p>
+            <p>Who Indeavouring to Turn the Late Hel<g ref="char:EOLhyphen"/>liſh-<hi>PLOT</hi> on the <hi>Non-Conformiſts;</hi> thereby to Vindicate her own Sect, the <hi>Papiſts:</hi> Was before ſeveral Witneſſes heard Im<g ref="char:EOLhyphen"/>pudently to Wiſh, <hi>That ſhe might never ſee the</hi> Light: <hi>and that ſome Remarkable Judgement might light on her, if there were any ſuch thing as a</hi> PLOT <hi>deſigned, or carried on by the</hi> Roman-Catholicks, <hi>tending to the Deſtruction of the</hi> KING, <hi>or the Subverſion of our Religion or Government.</hi>
+            </p>
+            <p>Which miſerable Imprecation, by <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Hand of Providence, fell on her within Two Days afterwards, ſhe being not only according to her own Wiſh, totally Deprived of her Sight, but Viſited alſo with a dangerous Fitt of Sickneſs. In which ſad Condition ſhe yet remains to the terrour of all-equivocating Papiſts, who dare be to impious as to make Imprecation contrary to their Knowledge and Conſcience.</p>
+            <p>Printed for F. T. in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104418:2"/>
+            <head>A Full and True Narrative of one <hi>Elizabeth Middleton,</hi> a <hi>Roman-Catho<g ref="char:EOLhyphen"/>lique,</hi> &amp;c.</head>
+            <p>
+               <hi>THe Invincible Impudence of the</hi> Roman-Catho<g ref="char:EOLhyphen"/>licks, <hi>is not a little remarkable, in that they ſtill continue to endeavour to poſseſs us, that there is no ſuch thing as a</hi> Popiſh Plot; <hi>no, not although there is hardly any of our ſenſes but have inform'd us on the contrary; for, alas! have we not ſeen our Famous City flaming about our Ears? have we not felt their perfidious Swords plunged in our</hi> Proteſtant-<hi>Boſomes? have we not heard them fairly Try'd, and found Guilty of the ſame Fact? have not our Fore-Fathers taſted of, and we been threatned with their Poyſonous Cups? and had not the Noſtrils of the whole Land like to have been choak'd with the fatal ſtench of their</hi> Pow<g ref="char:EOLhyphen"/>der-Plot? <hi>But if after all this we will not credit our ſenſes, to what <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were they given us:? what aſſurance have we that we Eat, Drink, Walk, or Sleep? or who ſhall be able to make Affidavit that he lives? for certainly there cannot be a firmer demonſtration of any of theſe, Than that the</hi> Ro<g ref="char:EOLhyphen"/>man-Catholicks <hi>are our inveterate enemies, and would cor<g ref="char:EOLhyphen"/>dially rejoyce at our deſigned Ruine. Which that we may un<g ref="char:EOLhyphen"/>doubtedly believe, and stand o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our honeſt Guard, Indulgent</hi>
+               <pb n="2" facs="tcp:104418:2"/> 
+               <hi>Heaven has been very induſtrious in affording us frequent evidences of their hate and Treachery, the unparallel'd Mur<g ref="char:EOLhyphen"/>der of Sir</hi> Ed. B. Godfrey, <hi>had been of it ſelf ſufficient to depaint their Guilt: But as if Providence had condeſcended to take a particular cognizance of our fool-hardy incredulity: ſince then there has ſcarcely ever a Day paſſed over our heads which has not given us farther aſſurances of ther Hel<g ref="char:EOLhyphen"/>liſh Deſigns. And that we may be left without all hopes of excuſe, the Almighty has been pleaſed farther to Evidence their perfidiouſneſs, and our danger, by a Miracle wrought on one of their Religion, which for its Truth and Rarity, ought never to be forgotten, but to be preſerv'd and hoarded up like the</hi> Egyptian-Manna, <hi>as a Relick fit to be delivered to Poſterity, that our Succeſſors, as well as our ſelves, may ſee the Juſtice, as well as the Power of him that did it.</hi>
+            </p>
+            <p>THe Perſon on whom it was effected, was a Woman well ſtricken in years, and one who had imbibed ſo many of the Popiſh-Princi<g ref="char:EOLhyphen"/>ples, that ſhe was become a moſt Stickling Zealot in the <hi>Romiſh</hi>-Religion, and ſo paſſionate that ſhe could not with any patience endure to hear any thing, either againſt it, or the profeſſors of it, without run<g ref="char:EOLhyphen"/>ing unto many extravagant expreſſions againſt thoſe who oppos'd her; and this her infirmity was much more viſible, becauſe ſhe hap'ned to inhabit in a <hi>Lane</hi> where many Papiſts did likewiſe dwell, whoſe fre<g ref="char:EOLhyphen"/>quent
+<pb n="3" facs="tcp:104418:3"/> Converſe might in all probability increaſe her eagerneſs, and raiſe her Spirit in the defence of thoſe Principles, into which (though ſhe were ſubtly ſedu<g ref="char:EOLhyphen"/>ced) ſhe ſo dearly loved. The name of the place of her abode, is called <hi>Gardeners-Lane,</hi> neer <hi>Weſtminſter;</hi> the Houſes whereof are of an antient low ſort of tim<g ref="char:EOLhyphen"/>ber-Building, and conſequently the more dangerous if any Fire ſhould either by deſign or accident happen therein. This it ſeems the Papiſts were very well ac<g ref="char:EOLhyphen"/>quainted withal, who according to the information of the Inhabitants thereabouts, had ſome time ſince condemned it to their mercileſs flames, and had ſo far proceeded to execution, that one of their <hi>Fire<g ref="char:EOLhyphen"/>houſing</hi>-Agents had got into a great Bake-Houſe at the upper end of it, with intention by ſetting the Bavens on fire, to conſume the whole Lane, but by Gods mercy he was ſtrangely prevented, by falling (in the dark) againſt a Glaſs-window, and the Panes burſt<g ref="char:EOLhyphen"/>ing out on the other ſide, alarm'd a Maid-ſervant of the houſe, who taking him only for a Theif, indea<g ref="char:EOLhyphen"/>voured to apprehend him, by crying out, <hi>Stop Theif.</hi> But though at that time he eſcaped, he has ſince by the confeſſion of another whom he had imployed a<g ref="char:EOLhyphen"/>bout a like concern, been apprehended, and has been ſo ingenious as to confeſs the Fact.</p>
+            <p>This narrow deliverance could not but poſſeſs the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>autious Inhabitants to be more careful for the time
+<pb n="4" facs="tcp:104418:3"/> to come; and in order thereunto, to extirpate, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Root out (as poſſible they may) as many of the aforeſaid <hi>Papiſts</hi> as they could: at which this Woman <hi>Elizabeth Middleton,</hi> ſeem'd more then ordinarily con<g ref="char:EOLhyphen"/>cern'd, nor would be perſwaded to deſert the City, though his Majeſties Royal Proclaimation had been exhibited to that purpoſe. But ſhe obſtinate in her own ways, ſeem'd to take no Notice thereof; but ſtay'd at her uſual habitation, openly proclaiming her opinion, and boldly commending thoſe Principles, and vindicating the practicers thereof, inſomuch that ſhe was at length taken notice of by Authority, which according to the uſual method followed in thoſe caſes, proceeded to render her a Papiſt Convict, in order to the farther Execution of the Law, long ſince provided for ſuch Recuſants.</p>
+            <p>But nothing could ſtop the fierce current of this Womans incorrigableneſs; ſhe continued as Male<g ref="char:EOLhyphen"/>pert and bold as ever: and once about a fortnight ſince, it was her fortune to go into a Neighbours Victualling. Houſe, known by the Sign of the <hi>Sun and Phenix,</hi> in the ſame Lane, and not above four Doors off her own home: there ſhe fell afreſh to the aſper<g ref="char:EOLhyphen"/>ſing of Non-conformiſts, and the aſerting the Loy<g ref="char:EOLhyphen"/>alty and Innocence of thoſe of the Romiſh Re<g ref="char:EOLhyphen"/>ligion. It could not be immagined but at ſuch a juncture as this is, ſhe ſhould meet with ſome that
+<pb n="5" facs="tcp:104418:4"/> oppoſed her, whom ſhe patiently reſiſting, was by the Nervous ſtrength of their reaſon, brought to the contrary of what ſhe ſaid, ſcrew'd up to ſuch an ex<g ref="char:EOLhyphen"/>ceſs of extravagent paſſion, that at laſt in a very con<g ref="char:EOLhyphen"/>cern'd poſture, ſhe openly wiſht, <hi>That ſhe might never ſee the Light, and that ſome Remarkable Iudgement might fall on her (for an Example) if there were any ſuch thing as a Plot Deſigned, or carried on by the</hi> Roman-Catholicks, <hi>tending to the Deſtruction of the King, or the Subverſion of our Religion or Government.</hi> There is no queſtion but when ſhe ſpoke this hidious Imprecation, ſhe imagi<g ref="char:EOLhyphen"/>ned ſhe might digeſt it with as much eaſe, and leſs harm, then others of her perſwaſion ſwallow Oaths, Teſts and Sacraments, in atteſtation of their Loyalty, when they intend nothing but Blood-ſhed and Sedi<g ref="char:EOLhyphen"/>tion; But <hi>God will not</hi> always <hi>be Mocked,</hi> and though his Vengeance comes but ſeldom, yet it comes ſure, and he will be Glorified either in afflicting us and making us thereby immediate and open Examples of his diſpleaſure: or elſe in preſerving us and render<g ref="char:EOLhyphen"/>ing us the happy Subjects of his care and Providence. This truth is Remarkable by thoſe diſpenſations which the Almighty thought in his infinite wiſdom, fit to lay on this raſh woman, who muſt neceſſarily know that either her aſſeverations were not true, and ſo it was but juſt that her own Imprecations ſhould fall on her, or elſe that ſhe was ignorant in the thing
+<pb n="6" facs="tcp:104418:4"/> ſhe ſo confidently affirm'd, and ſo ought not to have challenged God at ſo high a rate, to inflict his Judge<g ref="char:EOLhyphen"/>ments upon her if it were not true.</p>
+            <p>Had ſhe but thought of this, ſhe might in all hu<g ref="char:EOLhyphen"/>mane probability have eſcaped thoſe dreadful judge<g ref="char:EOLhyphen"/>ments which ſeiz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d her but Two days afterwards, for then according to her wiſh, ſhe was ſtrucken ſtark Blind, inſomuch that when many of her neighbours went to viſit her, ſhe knew them by their Voices, but could not in the leaſt diſtinguiſh who they were by her eyes or ſight, being by her own acknowledg<g ref="char:EOLhyphen"/>ment ſtark blind; and being told of her raſhneſs in making the aforeſaid aſſeveration, ſhe was heard to anſwer to no other purpoſe than this; Viz. <hi>That God was a juſt God, and would not be mocked.</hi> But Heaven thought not Blindneſs alone a ſufficient penalty for ſo great an Impiety, and therefore added to it a dan<g ref="char:EOLhyphen"/>gerous fit of Sickneſs, with both of which, ſhe re<g ref="char:EOLhyphen"/>mains miſerably afflicted to this day.</p>
+            <p>And now behold honeſt Reader, the ſad effects of Popiſh preſumption, and the miſerable condition of Popiſh Proſelytes, who if they can by any clan<g ref="char:EOLhyphen"/>deſtine or daring Impiety, out-brave Mankind, think that God takes no notice of them; but let ſuch take warning by this unhappy Example, and knew that if for ſuch Sins they eſcape here, yet he will certainly light on them, and puniſh them hereafter.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:104418:5"/>
+            <head>POSCRIPT.</head>
+            <p>
+               <hi>If any one queſtions the Truth of this Narrative, let them Repair to the Prementioned Sign of the</hi> Sun <hi>and</hi> Phenix <hi>in</hi> Gardeners-Lane, <hi>near</hi> Weſtminſter, <hi>and the Man of the Houſe who is a ſufficiant Honeſt ſober</hi> Proteſtant, <hi>will give them Satisfaction.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
